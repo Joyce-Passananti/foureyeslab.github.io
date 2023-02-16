@@ -6,6 +6,14 @@
 #   role: faculty / research_scientist / phd_student / master_student / visitor
 #   alumni: yes / no (or leave out)
 
+- name: joyce_passananti
+  display: "Joyce Passananti"
+  role: phd_student
+  website: "https://joyce-passananti.github.io/index.html"
+  description: "Mixed Reality, Computational Fabrication, Human-Computer Interaction"
+  photo: joyce_passananti.jpeg
+  alumni: false
+
 - name: kento_nishi
   display: "Kento Nishi"
   role: student_visitor
